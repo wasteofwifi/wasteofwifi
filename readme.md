@@ -2,4 +2,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1408081539249733764?showDisplayName=true&bg=313244&borderRadius=15px&hideActivity=whenNotUsed)](https://discord.com/users/1408081539249733764)
 
-View More [here](https://tazs.tech)
+View More [here](https://xojw.vercel.app)
