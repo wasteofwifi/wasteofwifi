@@ -8,7 +8,7 @@
 
 ### Working with
 
-![Languages](https://skillicons.dev/icons?i=astro,html,css,ts,js,nextjs,react,vite,nodejs,discordjs,tailwind)
+![Languages](https://skillicons.dev/icons?i=astro,swift,html,css,ts,js,nextjs,react,vite,nodejs,discordjs,tailwind)
 ![Others](https://skillicons.dev/icons?i=git,github,vscode,figma) \
 ![OS](https://skillicons.dev/icons?i=linux,windows,apple)
 
