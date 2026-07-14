@@ -1,3 +1,4 @@
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello
 - Hi, I’m Taz
 - Based in Virginia, USA
 - [Portfolio](https://taz.is-a.dev)
